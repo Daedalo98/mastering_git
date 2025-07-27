@@ -1,3 +1,3 @@
-## Hello, Git!
+## Welcome to Git!
 
-- adding from 'newbranch'
+- comingr from Adrian
