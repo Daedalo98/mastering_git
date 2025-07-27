@@ -1,3 +1,3 @@
-## Hello, Git!
+## Heyoo, Git!
 
-- adding from 'newbranch'
+- adding from Jonnhy
