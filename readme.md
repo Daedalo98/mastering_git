@@ -1,3 +1,4 @@
-## Heyoo, Git!
+## Welcome to Git!
 
-- adding from Jonnhy
+- coming from Adrian
+- hopefully this will work!
